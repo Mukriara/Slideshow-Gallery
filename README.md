@@ -1,1 +1,1 @@
-# Slideshow
+# Slideshow Gallery
